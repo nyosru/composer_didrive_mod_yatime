@@ -1,7 +1,7 @@
 {
     "name": "didrive_mod/yatime",
     "description": "время ожидания",
-    "version": "0.0.1",
+    "version": "0.0.2",
     
     "keywords": [
         "didrive", "module", "nyos", "uralweb.info"
@@ -16,7 +16,7 @@
     ],
     
     "homepage": "https://uralweb.info/php/#classes",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "require": {
         
         "php": ">=7.1.0"
